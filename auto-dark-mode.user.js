@@ -5,6 +5,7 @@
 // @description  Automatically invert light-themed pages when system prefers dark mode
 // @author       jsnelgrove
 // @match        *://*/*
+// @exclude      https://mail.google.com/*
 // @grant        GM_addStyle
 // @run-at       document-idle
 // ==/UserScript==
